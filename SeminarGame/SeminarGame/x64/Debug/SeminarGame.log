@@ -1,9 +1,0 @@
-﻿  GamePlay.cpp
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(145,19): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(146,14): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(147,29): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(158,17): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(159,12): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-C:\Users\81902\source\repos\SeminarGame\GamePlay.cpp(160,41): warning C4244: '=': 'unsigned __int64' から 'float' への変換です。データが失われる可能性があります。
-  SeminarGame.vcxproj -> C:\Users\81902\source\repos\SeminarGame\x64\Debug\SeminarGame.exe
